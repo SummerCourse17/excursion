@@ -1,18 +1,22 @@
+/*code that applies to the whole webpage*/
 h1, p, h2{
   backgroung-color: black;
   text-align: center;
   font-family: Verdana;
 }
+/*Code for main heading*/
 h1{
   font-weight: normal;
   color: white;
   text-align: center;
   font-size: 50px;
 }
+/*paragraph styling*/
 p{
   color: aquamarine;
   font-size: 16px;
 }
+/*Code for sub-headings*/
 h2{
   font-weight: 300;
   font-size: 42px;
