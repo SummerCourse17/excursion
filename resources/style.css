@@ -1,5 +1,5 @@
 /*code that applies to the whole webpage*/
-h1, p, h2, video, img{
+h1, p, h2, video, img, h3, h3.copy{
   backgroung-color: black;
   text-align: center;
   font-family: Verdana;
@@ -25,7 +25,7 @@ h3{
   font-size: 21px;
   color: Gray;
 }
-p.copyright{
+h3.copy{
   text-align: right;
 }
   
