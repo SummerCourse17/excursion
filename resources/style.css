@@ -1,5 +1,5 @@
 /*code that applies to the whole webpage*/
-h1, p, h2, video, img, h3, .copy{
+body {
   backgroung-color: black;
   text-align: center;
   font-family: Verdana;
