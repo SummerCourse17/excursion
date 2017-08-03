@@ -1,6 +1,6 @@
 /*code that applies to the whole webpage*/
 body {
-  backgroung-color: black;
+  background-color: black;
   text-align: center;
   font-family: Verdana;
 }
@@ -26,6 +26,6 @@ h3{
   color: Gray;
 }
 .copy{
-  text-align: right;
+  text-align: right !important;
 }
   
